@@ -14,4 +14,3 @@ class Example(Scene):
         self.play(ClossingEye(r))
         self.wait() 
 ```
-
