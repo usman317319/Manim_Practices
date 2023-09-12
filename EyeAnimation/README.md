@@ -1,9 +1,8 @@
 
-<h1>Example</h1>
+# Example
 <img src ='./Example.gif'>
 
-<h1>Usage<h1>
-
+# Usage
 
 ```python
 class Example(Scene):
@@ -15,3 +14,4 @@ class Example(Scene):
         self.play(ClossingEye(r))
         self.wait() 
 ```
+
